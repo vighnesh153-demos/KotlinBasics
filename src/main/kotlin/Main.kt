@@ -55,5 +55,7 @@ fun main() {
 
   // lateinit.usage()
 
-  lazy.usage()
+  // lazy.usage()
+
+  coroutines_and_async.usage()
 }
